@@ -15,10 +15,19 @@ Personal portfolio website made with Django framework in the backend, and with C
 (https://user-images.githubusercontent.com/104616403/210330707-c8607c2b-6929-435f-bb58-d3176454b4fa.gif)
 
 
-
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![image](https://user-images.githubusercontent.com/104616403/210331817-c266db91-fcfa-40e2-99ad-8c857c55051d.png)
+
+![image](https://user-images.githubusercontent.com/104616403/210332043-779ddac8-b1a7-4414-b5bd-ebe67d4200df.png)
+![image](https://user-images.githubusercontent.com/104616403/210332104-4a4556c7-5583-43bc-b39a-bc62b6b5e367.png)
+
+![image](https://user-images.githubusercontent.com/104616403/210332171-190afc75-9174-4ffa-b9d2-3541b5fd0ebb.png)
+
+![image](https://user-images.githubusercontent.com/104616403/210332226-cbfbe6e5-732d-4442-9aae-218b6e6292b0.png)
+
+![image](https://user-images.githubusercontent.com/104616403/210332284-9d69c838-ab8e-4e71-ac6b-2f0ed514561a.png)
+
 
 
 ## 🔗 Links
