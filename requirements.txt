@@ -1,0 +1,17 @@
+Django==3.2.7
+django-ckeditor==6.0.0
+django-ckeditor-5==0.1.6
+django-crispy-forms==1.12.0
+django-debug-toolbar==2.2
+django-dotenv==1.4.2
+django-environ==0.9.0
+django-social-share==2.2.1
+django-static-fontawesome==5.14.0.0
+django-taggit==3.0.0
+gunicorn==20.0.4
+Pillow==9.1.0
+psycopg2-binary==2.9.1
+django-import-export
+django-jazzmin
+django-tailwind
+django-allauth
